@@ -47,7 +47,7 @@ Citation: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed [he
 Download customer Dataset [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) and 
 Data dictionary [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-##Tools
+## Tools
 Pandas- for data analysis
 
 Seaborn - for visualization
